@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+.recipe-page-row{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
